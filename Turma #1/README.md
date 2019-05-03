@@ -1,3 +1,16 @@
 # Bootcamp Indústria Têxtil
 
-O Bootcamp Industria Têxtil é um evento intensivo de 5 dias destinado a criativos, designers de moda, profissionais da indústria têxtil, professores e alunos e especialistas em fabricação digital. Durante esse Bootcamp os participantes explorarão novas possibilidades e alternativas para os atuais sistemas de manufatura têxtil e de vestuário, orientados por tecnólogos, designers têxteis e de moda, especialistas em computação e outros especialistas de outras áreas (como a Biotecnologia)
+Esse é o repositório dos projetos desenvolvidos durante o Bootcamp. Ocorreu entre 06/05 a 10/05/2019.
+
+
+![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/bootcamps_capa%20evento.png)
+
+
+
+### Facilitadores
+
+
+### Registro
+
+
+### Participantes
