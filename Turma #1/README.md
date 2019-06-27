@@ -9,8 +9,46 @@ Esse é o repositório dos projetos desenvolvidos durante o Bootcamp. Ocorreu en
 
 ### Facilitadores
 
+Carol Gonzaga
+
+Clara Acioly
+
+Gabriel Bastos
+
+Pedro Accioly
+
+Rozeani Araujo
 
 ### Registro
 
+Zeilane Fernandes
 
 ### Participantes
+
+Alva Nascimento
+
+Carlos Augusto	
+ 
+Fernanda	Alves
+ 
+Heitor Espíndola
+ 
+Henrique Cantilho
+ 
+Igor Affonso
+ 
+Isabella Elias
+ 
+Jessyca Ugolini
+ 
+Leonardo Costa
+ 
+Marcelo Motta de Araujo Cabral
+ 
+Rafael Aguirre
+ 
+Roselene Sant' Anna
+
+Samantha Vivas
+
+Thaiza Reis
