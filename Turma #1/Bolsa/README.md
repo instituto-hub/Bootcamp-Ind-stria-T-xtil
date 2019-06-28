@@ -11,8 +11,6 @@ Carlos Augusto
 
 Heitor Espíndola
 
-Igor Affonso
-
 Leonardo Costa
 
 Rafael Aguirre
