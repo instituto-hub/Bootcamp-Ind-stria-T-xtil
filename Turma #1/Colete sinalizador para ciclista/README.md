@@ -10,6 +10,8 @@ Fernanda Alves
 
 Igor Affonso
 
+Jessyca Ugolini
+
 Samantha Vivas
 
 
