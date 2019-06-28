@@ -1,4 +1,4 @@
-## Bolsa
+## Bolsa com iluminação interna
 
 A bolsa ao ser aberta acende leds internos para iluminação do interir do objeto.
 
