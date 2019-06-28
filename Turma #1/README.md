@@ -52,3 +52,7 @@ Roselene Sant' Anna
 Samantha Vivas
 
 Thaiza Reis
+
+
+
+![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/61481183_882706868735590_5227085614251245568_o.jpg)
