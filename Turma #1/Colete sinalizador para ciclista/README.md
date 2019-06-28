@@ -17,10 +17,7 @@ Samantha Vivas
 
 ## Materiais
 
-Protótipo rascunho:
-
-![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/61425465_882703952069215_2672690605645103104_o.jpg)
-
+Protótipo rascunho.
 
 Luva: Bioplástico a base de fécula de mandióca e resíduos de chá de hibísco.
 
