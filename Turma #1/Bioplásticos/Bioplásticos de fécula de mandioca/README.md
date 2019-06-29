@@ -151,15 +151,15 @@ A fécula de mandioca pode ser retirada em casa, da própria mandioca ou pode se
 
 ## Para separar a fécula da mandioca:
 
-1. Descascar a mandioca
+1. Descascar a mandioca.
 
-2. Cortar em pedaços
+2. Cortar em pedaços.
 
-3. Bater no liquidificador com água
+3. Bater no liquidificador com água.
 
-4. Coar
+4. Coar.
 
-5. Deixar descansar o líquido, a fécula é a parte branca decantada
+5. Deixar descansar o líquido, a fécula é a parte branca decantada.
 
 6. Separar a água (chamada manipueira) para descarte adequado, pois pode ser tóxica e poluente em certos níveis, precisa ser bem diluída e se possível dar outro destino para o líquido, que pode virar sabão, vinagre ou fertilizante.
 
@@ -168,15 +168,15 @@ A fécula de mandioca pode ser retirada em casa, da própria mandioca ou pode se
 
 Para fazer o bioplástico de mandioca, basta cozinhar todos os ingredientes juntos:
 
-1. Pesar e medir todos os ingredientes
+1. Pesar e medir todos os ingredientes.
 
-2. Juntar todos os ingredientes em uma penela e misturar bem até o líquido ficar homogêneo
+2. Juntar todos os ingredientes em uma penela e misturar bem até o líquido ficar homogêneo.
 
-3. Ligar o fogo e misturar devagar para evitar bolhas
+3. Ligar o fogo e misturar devagar para evitar bolhas.
 
 4. Quando o líquido adquirir a consistência de “mingau grosso” e ficar homogêneo em textura e cor, despejar no recipiente desejado e se necessário, ajudar a espalhar o conteúdo para ficar com espessura parecida em toda a área.
 
-5. Deixar secar (secagem pode variar de 5 dias a 11 dias, dependendo do tamanho, umidade do ar, temperatura, etc)
+5. Deixar secar (secagem pode variar de 5 dias a 11 dias, dependendo do tamanho, umidade do ar, temperatura, etc).
 
 Observações:
 Para adição de ingredientes como: cascas, sementes, flores, etc (partes grandes) aconselho bater no liquidificador com a água da própria receita antes de misturar os ingredientes. A textura pode ser controlada, desde mais grosseiro, com pedaços maiores até mais homogêneo, com os pedaços quase líquidos misturados à receita.
