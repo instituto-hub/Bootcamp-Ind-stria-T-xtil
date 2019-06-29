@@ -2,6 +2,8 @@
 
 Esse é o repositório dos projetos desenvolvidos durante o Bootcamp. Ocorreu entre 06/05 a 10/05/2019.
 
+Gostaria de realizar, financiar ou saber mais sobre o Bootcamp Indústria Têxtil? Entre em contato com: contato@ihub.org.br ou pelo site www.ihub.org.br .
+
 
 ![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/bootcamps_capa%20evento.png)
 
