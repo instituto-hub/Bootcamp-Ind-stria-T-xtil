@@ -35,3 +35,20 @@ Rígido (efeito papel):
 2 unidades de casca de banana
 
 ![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/61103658_882689222070688_225217476433018880_o.jpg)
+
+
+
+O Processo:
+- A primeira etapa é medir o volume médio do recipiente em que a mistura vai secar.
+
+- Em seguida pese os ingredientes distribuindo de acordo com as proporções da receita escolhida.
+
+- Colocar cada ingrediente em um recipiente: primeiro a gelatina, depois a glicerina, misture colocando a água fervendo aos poucos, misturando até ficar
+homogêneo.
+
+- Despejar no recipiente escolhido, este deve ter uma borda pois a mistura é líquida e não é aderente, como exemplo: forma de inox ou alumínio, acrílico,
+plástico ou vidro.
+
+- Deixar secar (tempo varia do tamanho da forma, condições climáticas, etc) Retirar com cuidado da forma, parecido com tirar um adesivo.
+
++ Pode-se acrescentar qualquer coisa (de preferencia natural para continuar biodegradável) ao bioplástico para testar consistência, aparência, etc.
