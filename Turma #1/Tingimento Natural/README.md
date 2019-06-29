@@ -5,9 +5,13 @@ Os corantes naturais servem somente para tingir fibras naturais: algodão, lã, 
 - Para a fixação das cores nos tecidos são necessários mordentes:
 
 ▪ Pedra ume (Alumen)
+
 ▪ Ferro
+
 ▪ Tanino
+
 ▪ Vinagre e sal
+
 ▪ Cinzas de madeira
 
 - Para preparar o tecido é necessário tirar toda a gordura ou goma que atrapalhe a absorção da cor pela fibra: lavar  e deixar de molho na água, deixar de molho no mordente e retirar o excesso
@@ -15,15 +19,15 @@ de mordente com água.
 
 - Fever a água com o colorante natural da cor desejada.
 
-Beterraba – rosa
+▪Beterraba – rosa
 
-Erva mate – verde
+▪Erva mate – verde
 
-Chá Preto 
+▪Chá Preto 
 
-Cúrcuma - amarelo
+▪Cúrcuma - amarelo
 
-Spirulina - verde
+▪Spirulina - verde
 
 ![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/61800840_882692158737061_4479561008947396608_o.jpg)
 
@@ -43,9 +47,13 @@ Spirulina - verde
 - Para a fixação das cores nos tecidos são necessários mordentes:
 
 ▪ Pedra ume (Alumen)
+
 ▪ Ferro
+
 ▪ Tanino
+
 ▪ Vinagre e sal
+
 ▪ Cinzas de madeira
 
 - Para preparar o tecido é necessário tirar toda a gordura ou goma que atrapalhe a absorção da cor pela fibra: lavar  e deixar de molho na água, deixar de molho no mordente e retirar o excesso
@@ -54,19 +62,19 @@ de mordente com água.
 
  -  Escolhe-se os colorantes naturais:
 
-Eucalipto (verde)
+▪Eucalipto (verde)
 
-Macela (amarelo) 
+▪Macela (amarelo) 
 
-Chá Preto (preto)
+▪Chá Preto (preto)
 
-Chá Mate (verde) 
+▪Chá Mate (verde) 
 
-Casca de Cebola (suave/rosa/marrom) 
+▪Casca de Cebola (suave/rosa/marrom) 
 
-Urucum ou Coloral (laranja)
+▪Urucum ou Coloral (laranja)
 
-Cúrcuma ou Açafrão (amarelo) 
+▪Cúrcuma ou Açafrão (amarelo) 
 
 ![alt text](https://github.com/instituto-hub/Bootcamp-Ind-textil/blob/master/Turma%20%231/Imagens/61711811_882692965403647_6223321699673178112_o.jpg)
 
