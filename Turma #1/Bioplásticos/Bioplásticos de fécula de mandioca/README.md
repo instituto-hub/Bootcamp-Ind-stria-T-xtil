@@ -1,3 +1,12 @@
+2,5g de amido + 25 ml de água
+Ir ao fogo em fogo baixo
+em mistura aquecida adicionar 2ml de glicerina e 3m de vinagre
+
+
+
+
+
+
 ## Bioplásticos de fécula de mandioca
 
 ### NORMAL (120x60cm):
